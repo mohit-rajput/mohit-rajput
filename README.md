@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohit-rajput
 - 👀 I’m interested in front-end development.
-- 🌱 I’m currently learning Web Development and Linux CLI, Data Structures and Algorithms.
+- 🌱 I’m currently learning Backend Development and Linux CLI, Data Structures and Algorithms.
 - 💞️ Technologies I have worked with Web Technologies (HTML, CSS, JavaScript, BootStrap 4).
 
 <!---
